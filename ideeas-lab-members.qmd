@@ -3,6 +3,18 @@ title: "Lab Members"
 format: html
 ---
 
+## Lab PI: Andrew Katz
+
+
+### Short Narrative Bio
+
+Dr. Katz is an assistant professor in the Department of Engineering Education at Virginia Tech. He leads the Improving Decisions in Engineering Education Agents and Systems (IDEEAS) Lab. In order to make this slightly less bizarre, I am going to stop the third person narrative, be realistic, and switch to first person.
+
+I completed my PhD in the School of Engineering Education at Purdue University in spring of 2019. I was there for two years after having actually started my doctoral studies at Virginia Tech in Fall 2015. My advisor was Dr. Donna Riley, so when she moved to Purdue to lead the School of Engineering Education there I moved along with her. I was fortunate enough to be supported by an NSF graduate research fellowship, which made the transition a little more feasible since that funding tends to be tied to the student fellow rather than their particular institution of study. For that project (and my dissertation), I studied engineering faculty member mental models of engineering ethics education. I had started graduate school interested in student moral development, but within the first month of the program realized that if faculty members do not change then any sweet research I did on students may not amount to anything. Consequently, I switched to studying faculty members. These days I tend to have an interest in both faculty members and students and go wherever the research problem suggests.
+
+Before starting starting my doctoral work in engineering education, I bounced around a little more than some people. For example, I taught physics (AP Physics I, AP Physics C Mechanics and E&M) at a high school in Dallas, Texas for a couple of years. Before that, I worked as an environmental engineer in Research Triangle Park, NC helping research and write air pollution regulations. That was preceded by a short stint in the Gillings School of Global Public Health at UNC where I was studying health effects of inhalation exposure to small particles in exhaust gas. Of course, I was interested in that from my master's degree in environmental engineering at Texas A&M University, where I focused more on water pollution and epigenetic effects of exposure to endocrine disrupting compounds. I also hold a bachelor's degree in chemical and biomolecular engineering from Tulane University.
+
+
 ## <u>Graduate Students</u>
 
 <br/>
@@ -58,23 +70,7 @@ format: html
 <u>Contact information</u>: amandaross at vt dot edu <br/>
 [LinkedIn](https://www.linkedin.com/in/amanda-ross-040993163/)
 
-<br/>
-<br/>
-<br/>
 
-### Name: Lisa Schibelius
-<u>Background</u>: Lisa is currently pursuing her Ph.D. in Engineering Education at Virginia Tech after working in the aerospace industry for 4+ years with Airbus Americas  <br/> Engineering. She has experience in project management, aircraft upgrades, and process automation as an engineer in airworthiness & certification and retrofit of aircraft cabins in Upgrade Services. Her background includes a B.S. and M.S degree in mechanical engineering with a concentration in aerospace engineering from the University of South Alabama. She aspires to use her connections from industry to bridge the gap between engineering education and industry needs, while helping students in their own personal development to become creative problem-solvers and well-rounded, global engineers. She has teaching and mentoring experience from introductory robotics with elementary students, flight dynamics and mentoring for middle-schoolers, and graduate teaching assistantships for foundations of engineering for first-year students, Global STEM Practice: Leadership and Culture with the Rising Sophomore Abroad Program (RSAP) at VT, and thermal science with senior-level mechanical engineering students. <br/>
-<u>Research interests</u>: academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research  interests continue to evolve and expand). <br/>
-<u>Dissertation topic</u>: In progress <br/>
-<u>Contact information</u>: lisaschib at vt dot edu <br/>
-<u>Twitter</u>: @lisaschibelius
-[LinkedIn](https://www.linkedin.com/in/lisaschibelius/) <br/>
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=6CNW8WkAAAAJ) <br/>
-[ORCID](https://orcid.org/0000-0003-2678-7780) <br/>
-[Personal website](lisascribbles.github.io/) <br/>
-<u>CV</u>: See PDF attachment
-
-<br/>
 <br/>
 <br/>
 
