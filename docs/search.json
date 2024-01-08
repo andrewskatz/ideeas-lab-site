@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "onboard-info.html",
+    "href": "onboard-info.html",
+    "title": "Undergraduate Research Onboarding Information",
+    "section": "",
+    "text": "Background information\nThis document is intended to provide background information for students who are interested in joining my research group. You will find information about the research we do, the tools we use, and the logistics of getting involved.\n\n\nConceptual Information\nThis is material to help you start understanding basic concepts in machine learning and natural language processing, which we use in the research group. Here are some resources to get you started. There are many more resources available online, but these are some of my favorites. They include written tutorials and videos.\nWritten tutorials\nHere are some video resources - Machine Learning - Natural Language Processing - Deep Learning - Recurrent Neural Networks from a Stanford course on computer vision - Long Short-Term Memory from StatQuest, which is a great youtube channel for learning about machine learning and statistics - Gated Recurrent Units - Attention from Andrew Ng, one of the pioneers of deep learning - Transformer Networks - BERT - GPT-3 From Yannic Kilcher’s excellent youtube channel - GPT-3 Demo - GPT-3 Demo 2\n\n\nLogistics and Admin Information\nThis is material for actually getting involved in the research.\n\nCITI training\nUsing github copilot\nUse of Teams\nIDPro"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ideeas lab",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
