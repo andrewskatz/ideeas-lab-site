@@ -9,8 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: ideeas-lab-members.qmd
+        text: Members
       - href: onboard-info.qmd
         text: Onboarding
+      
 
 
 format:
