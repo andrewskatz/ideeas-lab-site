@@ -1,0 +1,45 @@
+---
+title: "Undergraduate Research Onboarding Information"
+format: html
+---
+
+# Background information
+This document is intended to provide background information for students who are interested in joining my research group. You will find information about the research we do, the tools we use, and the logistics of getting involved.
+
+ 
+
+# Conceptual Information 
+
+This is material to help you start understanding basic concepts in machine learning and natural language processing, which we use in the research group. Here are some resources to get you started. There are many more resources available online, but these are some of my favorites. They include written tutorials and videos.
+
+Written tutorials
+
+
+Here are some video resources
+- [Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- [Natural Language Processing](https://www.youtube.com/watch?v=fOvTtapxa9c)
+- [Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk)
+- [Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ) from a Stanford course on computer vision
+- [Long Short-Term Memory](https://www.youtube.com/watch?v=YCzL96nL7j0) from StatQuest, which is a great youtube channel for learning about machine learning and statistics
+- [Gated Recurrent Units](https://www.youtube.com/watch?v=8HyCNIVRbSU)
+- [Attention](https://www.youtube.com/watch?v=SysgYptB198) from Andrew Ng, one of the pioneers of deep learning
+- [Transformer Networks](https://www.youtube.com/watch?v=4Bdc55j80l8)
+- [BERT](https://www.youtube.com/watch?v=FKlPCK1uFrc)
+- [GPT-3](https://www.youtube.com/watch?v=SY5PvZrJhLE) From Yannic Kilcher's excellent [youtube channel](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+- [GPT-3 Demo](https://www.youtube.com/watch?v=9gBC9R-msAk)
+- [GPT-3 Demo 2](https://www.youtube.com/watch?v=8V20JV3xspg)
+
+
+ 
+
+# Logistics and Admin Information 
+
+This is material for actually getting involved in the research. 
+
+- CITI training 
+
+- Using github copilot 
+
+- Use of Teams 
+
+- IDPro 
