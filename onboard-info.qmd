@@ -13,20 +13,45 @@ This document is intended to provide background information for students who are
 This is material to help you start understanding basic concepts in machine learning and natural language processing, which we use in the research group. Here are some resources to get you started. There are many more resources available online, but these are some of my favorites. They include written tutorials and videos.
 
 Written tutorials
+The blogs from Jay Alammar are excellent. Here are some of my favorites:
+
+Some basics are:
+
+- Math of neural networks: [The Non-Technical Guide to Machine Learning & Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+- [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
+
+- [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/)
+
+- [The Illustrated GPT-3](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 
 
-Here are some video resources
+Here are some video resources:
+
 - [Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+
 - [Natural Language Processing](https://www.youtube.com/watch?v=fOvTtapxa9c)
+
 - [Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk)
+
 - [Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ) from a Stanford course on computer vision
+
 - [Long Short-Term Memory](https://www.youtube.com/watch?v=YCzL96nL7j0) from StatQuest, which is a great youtube channel for learning about machine learning and statistics
+
 - [Gated Recurrent Units](https://www.youtube.com/watch?v=8HyCNIVRbSU)
+
 - [Attention](https://www.youtube.com/watch?v=SysgYptB198) from Andrew Ng, one of the pioneers of deep learning
+
 - [Transformer Networks](https://www.youtube.com/watch?v=4Bdc55j80l8)
+
 - [BERT](https://www.youtube.com/watch?v=FKlPCK1uFrc)
+
 - [GPT-3](https://www.youtube.com/watch?v=SY5PvZrJhLE) From Yannic Kilcher's excellent [youtube channel](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+
 - [GPT-3 Demo](https://www.youtube.com/watch?v=9gBC9R-msAk)
+
 - [GPT-3 Demo 2](https://www.youtube.com/watch?v=8V20JV3xspg)
 
 
@@ -36,10 +61,14 @@ Here are some video resources
 
 This is material for actually getting involved in the research. 
 
-- CITI training 
+- IRB training: 
+The university uses the CITI training system for IRB training. You can find the training [here](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0). You will need to create an account and then complete the training. You will need to complete the "Social and Behavioral Research Investigators" training. You will also need to complete the "Responsible Conduct of Research" training. More information is available on the [university IRB website](https://www.research.vt.edu/sirc/hrpp/training.html). 
 
-- Using github copilot 
+- Using github copilot
+We will use github copilot for assistance with coding. You can find information about github copilot [here](https://copilot.github.com/). You will need to create a github account and then request access to copilot. You can find information about requesting access [here](https://copilot.github.com/request/). As a student, you should be able to get access for free. You should be able to use copilot in VS Code, which is the IDE we will use for coding. You can find information about VS Code [here](https://code.visualstudio.com/). 
 
 - Use of Teams 
+We will also use Microsoft Teams for communication. You can find information about Teams [here](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software). You will need to create a Microsoft account to use Teams. You can be added to the research group's team once you have created an account and emailed Dr. Katz.
 
 - IDPro 
+If you want to join research for course credit, you will need to register for the interdisciplinary projects (IDPro) course that meets either Wednesday or Thursday evening 5:30-7:20 (only one night, not both nights). Talk to Dr. Katz if you are interested in this option.
