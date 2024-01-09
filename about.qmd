@@ -2,6 +2,15 @@
 title: "About"
 ---
 
-In the IDEEAS Lab, our research focuses on the development and application of data science, machine learning, and natural language processing methods to engineering education research. We are particularly interested in the use of these methods to improve the decisions throughout engineering education agents and systems. Right now some of those areas include assessment, engineering ethics, and environmental sustainability education, but we are always looking for new areas to explore and cooking up new ideas.
+In the IDEEAS Lab, our research focuses on the development and application of data science, machine learning, and natural language processing methods to support engineering education teaching and research. We are particularly interested in the use of these methods to improve the decisions throughout engineering education agents and systems. Right now some of those areas include assessment, engineering ethics, and environmental sustainability education, but we are always looking for new areas to explore and cooking up ideas.
 
-You will find more information about research projects here soon...
+Some of our funded work includes:
+
+* [Collaborative Research: Research: Intersections between Diversity, Equity, and Inclusion (DEI) and Ethics in Engineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027486&HistoricalAwards=false)
+
+* [EAGER: Natural Language Processing for Teaching and Research in Engineering Education](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107008&HistoricalAwards=false)
+
+* [Research: Faculty Assessment Mental Models in Engineering Education](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113631&HistoricalAwards=false)
+
+
+You will find more information about other ongoing research projects here soon...
