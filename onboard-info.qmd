@@ -67,8 +67,11 @@ The university uses the CITI training system for IRB training. You can find the 
 - Using github copilot
 We will use github copilot for assistance with coding. You can find information about github copilot [here](https://copilot.github.com/). You will need to create a github account and then request access to copilot. You can find information about requesting access [here](https://copilot.github.com/request/). As a student, you should be able to get access for free. You should be able to use copilot in VS Code, which is the IDE we will use for coding. You can find information about VS Code [here](https://code.visualstudio.com/). 
 
-- Use of Teams 
+- Use of Microsoft Teams 
 We will also use Microsoft Teams for communication. You can find information about Teams [here](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software). You will need to create a Microsoft account to use Teams. You can be added to the research group's team once you have created an account and emailed Dr. Katz.
+
+- Use of Overleaf
+We will use Overleaf for writing papers. You can find information about Overleaf [here](https://www.overleaf.com/). You will need to create an account to use Overleaf. Here is a [tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) for getting started with LaTeX, which is the language we will use for writing papers.
 
 - IDPro 
 If you want to join research for course credit, you will need to register for the interdisciplinary projects (IDPro) course that meets either Wednesday or Thursday evening 5:30-7:20 (only one night, not both nights). Talk to Dr. Katz if you are interested in this option.
