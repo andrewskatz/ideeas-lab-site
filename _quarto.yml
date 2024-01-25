@@ -14,6 +14,8 @@ website:
         text: Members
       - href: onboard-info.qmd
         text: Onboarding
+      - href: ug-projects.qmd
+        text: "UG Projects"
       
 
 
