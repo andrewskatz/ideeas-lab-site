@@ -25,3 +25,31 @@ This project involves using generative AI to analyze think aloud data. The speci
 ### Description
 
 This project is about using social media data to understand public perceptions of generative AI. We are interested in understanding how the public perceives generative AI and how this perception changes over time. We are also interested in understanding how the public perceives generative AI in different contexts. For example, how do people perceive generative AI in the context of education? How do people perceive generative AI in the context of ethics?
+
+### Tasks
+
+This project involves using social media data to understand public perceptions of generative AI. The specific tasks are:
+
+1. Use social media data to understand public perceptions of generative AI. We are primarily interested in using Twitter, YouTube, and Reddit data, but we are open to other social media platforms. It is best when there is an API that we can use to collect the data.
+
+2. We are also interested in using generative AI to analyze these social media data. This will involve some machine learning including embedding the data and using clustering algorithms to identify topics. 
+
+## Project 3: Systems Thinking Assessment
+
+### Description
+
+This project is about using generative AI to help assess systems thinking. Systems thinking is a way of thinking about the world that focuses on the relationships between parts of a system. It is a way of thinking that is important for solving complex problems. We are interested in using generative AI to help assess systems thinking. We have a dataset of student responses to a systems thinking assessment. We are interested in using generative AI to analyze this data based on a rubric in addition to simply identifying the topics students are discussing.
+
+### Tasks
+
+This project involves using generative AI to help assess systems thinking. The specific tasks are:
+
+1. Use generative AI to analyze student responses to a systems thinking assessment. We are primarily interested in using pre-trained models to analyze the data. As with the other project, there is a lot of prompt engineering to test which prompts work best for the model.
+
+2. We are also interested in using the similar workflow as in project 2 to analyze the data. This will involve some machine learning including embedding the data and using clustering algorithms to identify topics.
+
+## Project 4: Choose Your Own Adventure
+
+### Description
+
+Possibly the most exciting project is the one that you choose! If you have an idea for a project that you would like to work on, please let me know. I am open to any ideas that you have. I am also happy to help you develop your idea into a project.
