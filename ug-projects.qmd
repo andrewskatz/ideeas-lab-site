@@ -1,0 +1,27 @@
+---
+title: "UG Projects"
+format: html
+---
+
+# Research Project Descriptions
+
+## Project 1: Think Aloud Design and Generative AI
+
+### Description
+
+This project is about using generative AI to help analyze think aloud data. Think aloud is a method of user testing where a user is asked to verbalize their thoughts as they complete a task. This data is often analyzed by hand, which is time consuming and expensive. We are exploring the use of generative AI to help automate this process. 
+
+The specific data come from a study where participants were asked to complete a design task. They were given information from one of three perspectives and asked to design a solution. The data we are using is the think aloud data from this study.
+
+### Tasks
+
+This project involves using generative AI to analyze think aloud data. The specific tasks are:
+
+1. Use generative AI to generate think aloud data. We are primarily interested in using pre-trained models to analyze the data. There is a lot of prompt engineering to test which prompts work best for the model.
+2. We are also interested in using speech-to-text models to generate transcripts of the audio data. This is a more traditional use of generative AI, but it is still an interesting problem.
+
+## Project 2: Public Perceptions of Generative AI + ______
+
+### Description
+
+This project is about using social media data to understand public perceptions of generative AI. We are interested in understanding how the public perceives generative AI and how this perception changes over time. We are also interested in understanding how the public perceives generative AI in different contexts. For example, how do people perceive generative AI in the context of education? How do people perceive generative AI in the context of ethics?
