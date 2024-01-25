@@ -5,6 +5,8 @@ format: html
 
 # Research Project Descriptions
 
+This page contains descriptions of research projects for undergraduate researchers here. These projects are all related to generative AI, but they are all different. Some of them are more technical and some of them are more focused on social science questions. Some of them are more open-ended and some of them are more structured. I am happy to work with you to find a project that is a good fit for you. If you have any questions or interest in joining the group, please contact Dr. Katz.
+
 ## Project 1: Think Aloud Design and Generative AI
 
 ### Description
