@@ -6,6 +6,10 @@ In the IDEEAS Lab, our research focuses on the development and application of da
 
 Some of our funded work includes:
 
+* [CAREER: Minds and Machines: Exploring Engineering Faculty Member Mental Models of Generative AI and Instructional Decisions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339702&HistoricalAwards=false)
+
+* [Design for Sustainability: How Mental Models of Social-Ecological Systems Shape Engineering Design Decisions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300977&HistoricalAwards=false) 
+
 * [Collaborative Research: Research: Intersections between Diversity, Equity, and Inclusion (DEI) and Ethics in Engineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027486&HistoricalAwards=false)
 
 * [EAGER: Natural Language Processing for Teaching and Research in Engineering Education](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107008&HistoricalAwards=false)
