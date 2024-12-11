@@ -50,6 +50,21 @@ This project involves using generative AI to help assess systems thinking. The s
 
 2. We are also interested in using the similar workflow as in project 2 to analyze the data. This will involve some machine learning including embedding the data and using clustering algorithms to identify topics.
 
+
+## Project 4: Applying Generative AI to Study Causal Beliefs
+
+The problem motivating this project is that causal beliefs that people hold of sociotechnical systems inform their decision making and engagement with the world. If we want to understand how people make decisions, then it can be useful to understand their causal beliefs. However, causal beliefs are often difficult to identify and measure because common methods for identifying causal beliefs are expensive and time consuming.
+
+This project aims to use generative AI to identify causal beliefs from text. The idea is that if we can get a generative AI to write a causal story about a sociotechnical system, then we can use the story to identify the causal beliefs of the author. Such soicotechnical systems can include the environment, education, healthcare,and AI.
+
+### Tasks
+
+This project involves using generative AI to identify causal beliefs from text. The specific tasks are:
+
+1. Use generative AI to write a causal story about a sociotechnical system.
+2. Use the story to identify the causal beliefs of the author.
+
+
 ## Project 4: Choose Your Own Adventure
 
 ### Description
