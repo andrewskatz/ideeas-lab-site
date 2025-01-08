@@ -14,6 +14,9 @@ I completed my PhD in the School of Engineering Education at Purdue University i
 
 Before starting starting my doctoral work in engineering education, I bounced around a little more than some people. For example, I taught physics (AP Physics I, AP Physics C Mechanics and E&M) at a high school in Dallas, Texas for a couple of years. Before that, I worked as an environmental engineer in Research Triangle Park, NC helping research and write air pollution regulations. That was preceded by a short stint in the Gillings School of Global Public Health at UNC where I was studying health effects of inhalation exposure to small particles in exhaust gas. Of course, I was interested in that from my master's degree in environmental engineering at Texas A&M University, where I focused more on water pollution and epigenetic effects of exposure to endocrine disrupting compounds. I also hold a bachelor's degree in chemical and biomolecular engineering from Tulane University.
 
+<!-- add social media links for twitter and linkedin -->
+[Twitter](https://x.com/doc_katz)
+[LinkedIn](https://www.linkedin.com/in/andrew-katz-vt/)
 
 ## <u>Graduate Students</u>
 
